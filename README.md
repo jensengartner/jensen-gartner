@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jensengartner
-- 👀 I’m interested in web design, UI/UX design, front end development
-- 🌱 I’m currently learning React, JavaScript
-- 💞️ I’m looking to collaborate on ... video games!
+- 👀 I’m interested in UI/UX design, front end development
+- 🌱 I’m currently learning JavaScript, Adobe XD
 - 📫 How to reach me: gartner.66@osu.edu
 
 <!---
