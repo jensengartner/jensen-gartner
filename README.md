@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jensengartner
 - 👀 I’m interested in UI/UX design, front end development
-- 🌱 I’m currently learning JavaScript, Adobe XD
+- 🌱 I’m currently learning Unreal Engine and C++
 - 📫 How to reach me: gartner.66@osu.edu
 
 <!---
